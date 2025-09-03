@@ -13,7 +13,7 @@ Technologies Used:
 Project Structure:
 - M1/: Data Collection & Preprocessing
 - M2/: Model Training & Evaluation
-- M3/: Prediction Interface
+- M3/: Prediction and Web Interface
 - Title.txt: Project overview
 
 Author:
