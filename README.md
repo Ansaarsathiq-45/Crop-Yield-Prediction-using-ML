@@ -20,3 +20,7 @@ Author:
 1. Ansaar S
 2. Arsath Deen J
 3. Alimudeen Kani R
+
+Project Trainers:
+1. Vanitha sri (Assistant professor of CSE Department)
+2. JayaPrabha.T (Assistant professor of CSE Department)
